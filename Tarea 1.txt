@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+     <html>
+           <head>
+                 <meta name="description" content = "Tarea de HTML 5 "/>
+                 <meta name ="keywords" content= "HTML5, CSS3, Javascript",/>
+                 <title>Tarea 1</title>
+            </head>
+            <body>
+                   <header>
+                          <h1>Tarea 1</h1>
+                   </header>
+                           <h2>Video</h2>
+                           <video src="C:\Users\Tachi\Documents\Programacion IV\Tarea 1\El Pollito Pio.mp4" controls>
+                                  No soporta video
+                           </video>
+                           <br><br><br>
+                           <h3>Audio</h3>
+                           <audio src="C:\Users\Tachi\Documents\Programacion IV\Tarea 1\Rock That Body.mp3" controls>
+                                   No soporta audio
+                           </audio>                           
+            </body>
+</html>
